@@ -3,6 +3,7 @@ import Toppings from './Toppings.jsx'
 import Order from './Order.jsx'
 import Base from './Base.jsx'
 import Modal from './Modal.jsx'
+import Loader from './Loader.jsx'
 
 export {
     Home,
@@ -10,4 +11,5 @@ export {
     Order,
     Base,
     Modal,
+    Loader,
 }

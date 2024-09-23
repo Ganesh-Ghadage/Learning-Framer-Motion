@@ -128,3 +128,21 @@ li span.active::before{
   color: #444;
   font-weight: bold;
 }
+
+/* loader */
+.loader{
+  width: 10px;
+  height: 10px;
+  margin: 40px auto;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.loaderBtn{
+  cursor: pointer;
+  border: 1px solid white;
+  width: fit-content;
+  margin: auto;
+  padding: 4px 8px;
+  border-radius: 20px;
+}
